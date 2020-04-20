@@ -1,4 +1,2 @@
-tkinter
-PIL
-sys
+Pillow
 pytube
