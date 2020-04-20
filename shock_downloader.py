@@ -78,8 +78,6 @@ button.pack()
 label=Label(root,text="Designed by Taneristique\n version 1.0")
 label.pack()
 label.config(foreground="green")
-count=1
-	
 	
 
 app.mainloop()
